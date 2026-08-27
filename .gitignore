@@ -1,0 +1,6 @@
+tasks.txt
+log.txt
+note.txt
+venv/
+__pycache__/
+*.pyc
